@@ -10,7 +10,7 @@ public class Retry {
 		String no = scan.next();
 		if (no.equals("n")) {
 			System.out.println("종료");
-			System.exit(0);
+			System.exit(0);	
 		}
 	}
 }

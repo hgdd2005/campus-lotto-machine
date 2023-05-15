@@ -100,7 +100,7 @@ public class Machine {
 				}
 			}
 		}
-		return bonusNum;
+		return myBonusNum;
 	}
 
 }
